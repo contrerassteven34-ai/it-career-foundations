@@ -1,0 +1,15 @@
+# hello.py - Mi primer script en Python
+# Autor: Steven Contreras
+
+print("¡Hola desde mi portafolio de TI!")
+print("Este repositorio documenta mi aprendizaje en tecnología.")
+print()
+
+# Información del sistema (útil para soporte técnico)
+import platform
+import os
+
+print("Información del sistema:")
+print(f"- Sistema: {platform.system()} {platform.release()}")
+print(f"- Usuario: {os.getlogin()}")
+print(f"- Directorio actual: {os.getcwd()}")
