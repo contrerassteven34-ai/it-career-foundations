@@ -76,4 +76,4 @@ Actualmente enfocado en:
 Este proyecto está bajo la licencia [MIT](LICENSE) - ver el archivo LICENSE para más detalles.
 
 > *"El conocimiento que no se comparte, pierde valor."*
->>>>>>> 88b2ef27894b0c8daaad71af21b9321c3f5ba395
+
