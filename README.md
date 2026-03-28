@@ -39,17 +39,22 @@ it-career-foundations/
 
 ## Proyectos Destacados
 
-### 1. **[Script de Monitoreo de Disco](scripts/powershell/disk-report.ps1)**
-- Script en PowerShell que genera reportes de espacio en disco
-- Exporta resultados a CSV para análisis
-- **Concepts:** Automatización, Reportes, PowerShell Basics
+### 1. **Laboratorio de Active Directory (NUEVO)**
+  - Entorno completo con Windows Server 2022 y 2 clientes Windows 11
+  - Configuración de AD DS, DNS, OUs, grupos de seguridad y usuarios de dominio
+  - Documentación paso a paso + troubleshooting de problemas reales
+  - **Skills:** Active Directory, Virtualización, PowerShell, Troubleshooting
+  - [Ver proyecto completo](projects/home-lab-ad/)
 
-### 2. **[Documentación de Procesos de Soporte](docs/soporte/)**
-- Procedimientos estandarizados para troubleshooting común
-- Plantillas para documentación técnica
-- **Concepts:** Knowledge Base, IT Documentation, Process Improvement
+### 2. **Script de Monitoreo de Disco**
+  - Script en PowerShell que genera reportes de espacio en disco
+  - Exporta resultados a CSV para análisis
+  - **Skills:** Automatización, Reportes, PowerShell Basics
 
-*(Más proyectos en desarrollo...)*
+### 3. **Documentación de Procesos de Soporte**
+  - Procedimientos estandarizados para troubleshooting común
+  - Plantillas para documentación técnica
+  - **Skills:** Knowledge Base, IT Documentation, Process Improvement
 
 ---
 
