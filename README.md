@@ -39,6 +39,8 @@ it-career-foundations/
 
 ## Proyectos Destacados
 
+## Proyectos Destacados
+
 ### 1. **Laboratorio de Active Directory (NUEVO)**
   - Entorno completo con Windows Server 2022 y 2 clientes Windows 11
   - Configuración de AD DS, DNS, OUs, grupos de seguridad y usuarios de dominio
