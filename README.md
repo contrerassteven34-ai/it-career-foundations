@@ -72,7 +72,7 @@ Actualmente enfocado en:
 
 ## Conecta Conmigo
 
-- **LinkedIn:**  *(¡Agrégame!)*
+- **LinkedIn:**  www.linkedin.com/in/steven-contreras-barrantes-abbb00344
 - **GitHub:** [@contrerassteven34-ai](https://github.com/contrerassteven34-ai)
 - **Correo:** [contrerassteven34@gmail..com]
 
